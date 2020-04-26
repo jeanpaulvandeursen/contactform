@@ -1,0 +1,23 @@
+{
+  "name": "contactform",
+  "version": "1.0.0",
+  "description": "## Use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanpaulvandeursen/contactform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanpaulvandeursen/contactform/issues"
+  },
+  "homepage": "https://github.com/jeanpaulvandeursen/contactform#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
